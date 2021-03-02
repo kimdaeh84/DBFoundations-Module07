@@ -30,7 +30,7 @@ Multi-Statement: The return syntax defines the structure of the return table.  D
  
  ![image](https://user-images.githubusercontent.com/79441092/109599204-a893a780-7acf-11eb-8773-5cac07ee2807.png)
  
-Figure 3 shows the structure of the Multi-Statement Function. Multi-Statement Table-Valued Function body can contain more than one statement. The structure of the table is returned from the function that can be defined by us.  
+Figure 3 shows the structure of the Multi-Statement Function. Multi-Statement Table-Valued Function body can contain more than one statement. The structure of the table is returned from the function that can be defined by the user.
 
 ## CONCLUSION
 In this paper, I intended to describe how to use SQL functions and some of different types of functions a database developer or user can utilize.  The topics that were covered were when to use a user defined function (UDF) and the differences between scalar, inline, and multi-statement functions.  
